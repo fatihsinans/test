@@ -1,4 +1,4 @@
 FROM nimbix/ubuntu-desktop
 
-ADD /.bashrc /home/nimbix/test.txt
-ADD /com /home/nimbix/com.txt
+ADD /fatih.txt /home/nimbix/Desktop/fatih.txt
+ADD /fatih.txt /etc/NAE/fatih.txt
